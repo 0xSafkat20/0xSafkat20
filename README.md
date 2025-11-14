@@ -15,7 +15,7 @@
 
  💬 Ask me about Node.js, React, Three.js, or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)
 
- 🚀 Exhibiting expertise in **Data Structures** and **Algorithms**.
+ 🚀 Exhibiting expertise in **Web Development** and **Software Enginnering**.
 
 </div>
 
